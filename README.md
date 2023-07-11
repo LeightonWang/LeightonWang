@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 Senior student in Dept. of Automation, SEIEE, [SJTU](https://en.sjtu.edu.cn/).
 - 💻 Python / C++ / MATLAB
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeightonWang&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeightonWang&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 - 📍 Shanghai, China
 - 🌐 Chinese / English
 - 🎪 Football / Table Tenis / Video Games / J-pop 
