@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a student in Dept. of Automation, SEIEE, SJTU
+- 🔭 Senior student in Dept. of Automation, SEIEE, SJTU
 - 💻 Python / C++ / MATLAB
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeightonWang&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 - 📍 Shanghai, China
-- 🌐 Native Chinese speaker; learning English, Japanese and Spanish!
+- 🌐 Chinese / English
 - 🎪 Football / Table Tenis / Video Games / J-pop 
