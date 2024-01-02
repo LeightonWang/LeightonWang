@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好 / Hello / こんにちは 👋
 
 <!--
 **LeightonWang/LeightonWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,6 @@ Here are some ideas to get you started:
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeightonWang&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 - 📍 Shanghai, China
-- 🌐 Chinese / English
+- 🌐 Chinese / English / Japanese
 - 🎪 Football / Table Tenis / Video Games / J-pop 
+- ✍️ New [Blogger](https://leightonwang.github.io)
