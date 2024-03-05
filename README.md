@@ -17,5 +17,5 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeightonWang&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 - 📍 Shanghai, China
 - 🌐 Chinese / English / Japanese
-- 🎪 Football / Table Tenis / Video Games / J-pop 
+- 🎪 Football / Table Tennis / Video Games / J-pop 
 - ✍️ New [Blogger](https://leightonwang.github.io)
