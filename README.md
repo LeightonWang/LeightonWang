@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Senior student in Dept. of Automation, SEIEE, [SJTU](https://en.sjtu.edu.cn/).
+- 🔭 Senior student @ Dept. of Automation, SEIEE, [SJTU](https://en.sjtu.edu.cn/).
 - 💻 Python / C++ / MATLAB
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeightonWang&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
