@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Senior student @ Dept. of Automation, SEIEE, [SJTU](https://en.sjtu.edu.cn/).
+  - Now working on my capstone project, which is about real-time quadrotor control and computing.
 - 💻 Python / C++ / MATLAB
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeightonWang&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 - 📍 Shanghai, China
 - 🌐 Chinese / English / Japanese
-- 🎪 Football / Table Tennis / Video Games / J-pop 
-- ✍️ New [Blogger](https://leightonwang.github.io)
+- 🎪 Football / Table Tennis / Video Games / Anime / J-pop 
+- ✍️ [Blogger](https://leightonwang.github.io)
