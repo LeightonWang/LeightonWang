@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 ### About Me
 [![Static Badge](https://img.shields.io/badge/blog-%40LeightonWang-blue)](https://leightonwang.github.io)
 - 🔭 I am a senior student @ Dept. of Automation, SEIEE, [SJTU](https://en.sjtu.edu.cn/).
+  - I'll be a master student @ Dept. of CS, SJTU this autumn
 - 📍 Shanghai, China
 - 🌐 中文 / English / 日本語
   - Native in Chinese / Able to speak (relatively) fluently English / Begginer of Japanese
