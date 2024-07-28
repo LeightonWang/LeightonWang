@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 -->
 ### About Me
 [![Static Badge](https://img.shields.io/badge/blog-%40LeightonWang-blue)](https://leightonwang.github.io)
-- 🔭 I am a master student at Department of Computer Science and Engineering, [SJTU](https://en.sjtu.edu.cn/) (since Sep 2024). I got my bachelor's degree at Department of Automation, SJTU in June 2024.
+- 🎓 Undergraduate @ Dept. of Automation, [SJTU](https://en.sjtu.edu.cn/) (2020/09 - 2024/06)
+- 🔭 Graduate @ Dept. of CSE, SJTU (since 2024/09).
 - 📍 Shanghai, China
 - 🌐 中文 / English / 日本語
   - Native in Chinese / Able to speak (relatively) fluently English / Begginer of Japanese
