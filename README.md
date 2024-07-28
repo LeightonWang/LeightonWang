@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 [![Static Badge](https://img.shields.io/badge/blog-%40LeightonWang-blue)](https://leightonwang.github.io)
-- 🔭 I am a senior student @ Dept. of Automation, SEIEE, [SJTU](https://en.sjtu.edu.cn/).
-  - I'll be a master student @ Dept. of CS, SJTU this autumn
+- 🔭 I am a master student at Department of Computer Science and Engineering, [SJTU](https://en.sjtu.edu.cn/) (since Sep 2024). I got my bachelor's degree at Department of Automation, SJTU in June 2024.
 - 📍 Shanghai, China
 - 🌐 中文 / English / 日本語
   - Native in Chinese / Able to speak (relatively) fluently English / Begginer of Japanese
@@ -39,5 +38,6 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeightonWang&layout=compact&hide=html,tex,ruby,shell)](https://github.com/anuraghazra/github-readme-stats)
  
 - Interested in (but not good at) robotics, artificial intelligence, along with something useless but funny
-- Now working on my capstone project, which is about real-time quadrotor control and computing.
+- My capstone project for bachelor's degree is about real-time quadrotor control and computing.
+- I am currently learning computer architecture and GPU programming.
 
