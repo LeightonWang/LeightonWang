@@ -60,7 +60,8 @@ Here are some ideas to get you started:
 ![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
 ![Microsoft PowerPoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+PowerPoint&color=B7472A&logo=Microsoft+PowerPoint&logoColor=FFFFFF&label=)
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leightonwang\&hide=stars,contribs)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leightonwang\&hide=contribs)
+   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeightonWang&layout=compact&hide=html,tex,ruby,shell)](https://github.com/anuraghazra/github-readme-stats)
  
 
