@@ -10,7 +10,8 @@
 
 ## Research & Interests
 - I am working on GPGPU platform development.
-  - C Model 
+  - C Model & T Model development
+  - RTL validation
 - Interested in (but not good at) robotics, artificial intelligence, along with something useless but funny
 - My capstone project for bachelor's degree is about real-time quadrotor control and computing.
 
