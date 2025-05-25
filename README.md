@@ -2,8 +2,9 @@
 
 ## About Me
 [![Static Badge](https://img.shields.io/badge/blog-%40LeightonWang-blue)](https://leightonwang.github.io)
-- 🎓 Undergraduate @ Dept. of Automation, [SJTU](https://en.sjtu.edu.cn/) (2020/09 - 2024/06)
-- 🔭 Graduate @ Dept. of CSE, SJTU (since 2024/09).
+- 🎓 Undergraduate @Dept. of Automation, [SJTU](https://en.sjtu.edu.cn/) (2020/09 - 2024/06)
+- 🔭 Graduate @School of CS, SJTU (since 2024/09).
+- 💼 Intern @[Infinigence](https://github.com/infinigence) (2025/02 - 2025/05)
 - 📍 Shanghai, China
 - 🌐 中文 / English / 日本語
 - 🎪 Football / Table Tennis / ACG / J-pop
@@ -24,7 +25,6 @@
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
 ![OpenCV](https://img.shields.io/static/v1?style=for-the-badge&message=OpenCV&color=5C3EE8&logo=OpenCV&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
