@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/blog-%40LeightonWang-blue)](https://leightonwang.github.io)
 - 🎓 Undergraduate @Dept. of Automation, [SJTU](https://en.sjtu.edu.cn/) (2020/09 - 2024/06)
 - 🔭 Graduate @School of CS, SJTU (since 2024/09).
-- 💼 Intern @[Infinigence](https://github.com/infinigence) (2025/02 - 2025/05)
+- 💼 Former intern @[Infinigence](https://github.com/infinigence) 
 - 📍 Shanghai, China
 - 🌐 中文 / English / 日本語
 - 🎪 Football / Table Tennis / ACG / J-pop
@@ -12,7 +12,6 @@
 ## Research & Interests
 - I am working on GPGPU platform development.
   - C Model & T Model development
-  - RTL validation
 - Interested in (but not good at) robotics, artificial intelligence, along with something useless but funny
 - My capstone project for bachelor's degree is about real-time quadrotor control and computing.
 
