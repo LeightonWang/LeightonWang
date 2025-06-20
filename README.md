@@ -27,7 +27,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8a39946-9a7b-4fde-a63b-1a6976f1b2b3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leightonwang\&hide=contribs)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeightonWang&layout=compact&hide=html,tex,ruby,shell)](https://github.com/anuraghazra/github-readme-stats)
