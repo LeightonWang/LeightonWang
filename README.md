@@ -2,10 +2,9 @@
 
 ## About Me
 [![Static Badge](https://img.shields.io/badge/blog-%40LeightonWang-blue)](https://leightonwang.github.io)
-- 🎓 Undergraduate @Dept. of Automation, [SJTU](https://en.sjtu.edu.cn/) (2020/09 - 2024/06)
-- 🔭 Graduate @School of CS, SJTU (since 2024/09).
-- 💼 Former intern @[Infinigence](https://github.com/infinigence) & @[ByteDance](https://github.com/bytedance)
-- 📍 Shanghai, China
+- 🎓 B.Eng. in Automation, [SJTU](https://en.sjtu.edu.cn/) (2020/09 - 2024/06)
+- 🔭 M.S. Candidate in CS, SJTU (since 2024/09).
+- 💼 Former Intern @[Infinigence](https://github.com/infinigence) & @[ByteDance](https://github.com/bytedance)
 - 🌐 中文 / English / 日本語
 - 🎪 Football / Table Tennis / ACG / J-pop
 
@@ -14,6 +13,7 @@
   - C Model & T Model development
   - Preparations for RTL validation
 - Parallel computation, AI chip, AI infra, LLM, AI agent...
+- Robotics, Embodied AI
 
 ## Technologies
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
