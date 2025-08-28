@@ -1,17 +1,15 @@
 # 你好 / Hello / こんにちは 👋
 
 ## About Me
-[![Static Badge](https://img.shields.io/badge/blog-%40LeightonWang-blue)](https://leightonwang.github.io)
-- 🎓 B.Eng. in Automation, [SJTU](https://en.sjtu.edu.cn/) (2020/09 - 2024/06)
-- 🔭 M.S. Candidate in CS, SJTU (since 2024/09).
+<!-- [![Static Badge](https://img.shields.io/badge/blog-%40LeightonWang-blue)](https://leightonwang.github.io) -->
+- 🔭 M.S. Candidate in CS, [SJTU](https://en.sjtu.edu.cn/) (since 2024/09).
+- 🎓 B.Eng. in Automation, SJTU  (2020/09 - 2024/06)
 - 💼 Former Intern @[Infinigence](https://github.com/infinigence) & @[ByteDance](https://github.com/bytedance)
 - 🌐 中文 / English / 日本語
 - 🎪 Football / Table Tennis / ACG / J-pop
 
 ## Research & Interests
-- I am working on GPGPU platform development.
-  - C Model & T Model development
-  - Preparations for RTL validation
+- GPGPU platform development, including chip design, C-Model & T-Model development, and RTL design.
 - Parallel computation, AI chip, AI infra, LLM, AI agent...
 - Robotics, Embodied AI
 
