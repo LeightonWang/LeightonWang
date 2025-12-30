@@ -8,9 +8,9 @@
 - 🎪 Football / Table Tennis / ACG / J-pop
 
 ## Research & Interests
-- GPGPU platform development, including chip design, C-Model & T-Model development, and RTL design.
-- Parallel computation, AI chip, AI infra, LLM, AI agent...
-- Robotics, Embodied AI
+- Currently working on **AI Agent** in coding!
+- GPGPU platform development (software simulation), C-Model & T-Model development, and RTL design.
+- Parallel computation, AI chip, AI infra
 
 ## Technologies
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
