@@ -4,7 +4,7 @@
 <!-- [![Static Badge](https://img.shields.io/badge/blog-%40LeightonWang-blue)](https://leightonwang.github.io) -->
 - 🔭 M.S. Candidate in CS, [SJTU](https://en.sjtu.edu.cn/) (since 2024/09).
 - 🎓 B.Eng. in Automation, SJTU  (2020/09 - 2024/06)
-- 💼 Former Intern @[Infinigence](https://github.com/infinigence) & @[ByteDance](https://github.com/bytedance)
+- 💼 Former Intern @[Infinigence](https://github.com/infinigence) & @[Microsoft](https://github.com/microsoft)
 - 🌐 中文 / English / 日本語
 - 🎪 Football / Table Tennis / ACG / J-pop
 
