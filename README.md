@@ -4,14 +4,14 @@
 <!-- [![Static Badge](https://img.shields.io/badge/blog-%40LeightonWang-blue)](https://leightonwang.github.io) -->
 - 🔭 M.S. Candidate in CS, [SJTU](https://en.sjtu.edu.cn/) (since 2024/09).
 - 🎓 B.Eng. in Automation, SJTU  (2020/09 - 2024/06)
-- 💼 Former Intern @[Infinigence](https://github.com/infinigence) & @[Microsoft](https://github.com/microsoft)
+- 💼 Intern @[ByteDance](https://github.com/bytedance). Former Intern @[Infinigence](https://github.com/infinigence) & @[Microsoft](https://github.com/microsoft)
 - 🌐 中文 / English / 日本語
 - 🎪 Football / Table Tennis / ACG / J-pop
 
 ## Research & Interests
-- Currently working on **AI Agent** in coding!
+- Currently working on ML Infra.
 - GPGPU platform development (software simulation), C-Model & T-Model development, and RTL design.
-- Parallel computation, AI chip, AI infra
+- Parallel computation, AI infra, AI Agent
 
 ## Technologies
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
